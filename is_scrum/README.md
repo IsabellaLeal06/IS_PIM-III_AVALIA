@@ -1,4 +1,4 @@
-# 📋 Scrum – Projeto Avalia+
+# 📋 IS_Scrum – Projeto Avalia+
 
 Esta pasta centraliza toda a documentação relacionada à metodologia ágil **Scrum** utilizada no desenvolvimento do projeto Avalia+.
 
