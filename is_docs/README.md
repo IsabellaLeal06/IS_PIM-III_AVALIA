@@ -8,12 +8,12 @@ Esta pasta contém toda a documentação técnica e acadêmica do projeto Avalia
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `escopo-do-projeto.md` | Escopo do produto, técnico e o que está fora do escopo |
-| `requisitos-do-sistema.md` | Requisitos funcionais (RF) e não funcionais (RNF) |
-| `regras-de-negocio.md` | Regras de negócio da plataforma |
-| `tipos-de-usuarios.md` | Perfis de acesso: Aluno, Professor e Administrador |
-| `metodologia-scrum.md` | Descrição da metodologia ágil Scrum aplicada ao projeto |
-| `gerenciamento-de-backlogs.md` | Documento completo de gerenciamento de backlogs |
+| `is_escopo-do-projeto.md` | Escopo do produto, técnico e o que está fora do escopo |
+| `is_requisitos-do-sistema.md` | Requisitos funcionais (RF) e não funcionais (RNF) |
+| `is_regras-de-negocio.md` | Regras de negócio da plataforma |
+| `is_tipos-de-usuarios.md` | Perfis de acesso: Aluno, Professor e Administrador |
+| `is_metodologia-scrum.md` | Descrição da metodologia ágil Scrum aplicada ao projeto |
+| `is_gerenciamento-de-backlogs.md` | Documento completo de gerenciamento de backlogs |
 
 ---
 
