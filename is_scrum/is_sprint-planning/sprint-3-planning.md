@@ -1,4 +1,4 @@
-# Sprint Planning – Projeto Avalia+
+# IS_Sprint Planning – Projeto Avalia+
 
 ## Sprint 3 – Desenvolvimento Inicial
 
