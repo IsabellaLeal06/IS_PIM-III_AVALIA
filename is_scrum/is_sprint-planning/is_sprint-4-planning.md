@@ -2,7 +2,7 @@
 
 ## Sprint 4 – Finalização do Projeto e Documentação
 
-**Projeto:** Avalia+  
+**Projeto:** Avalia+   
 **Data:** Maio de 2026  
 **Duração:** 2-3 semanas  
 
