@@ -8,10 +8,10 @@ Esta pasta contém os documentos de planejamento de cada sprint do projeto Avali
 
 | Arquivo | Sprint | Período |
 |---------|--------|---------|
-| `sprint-1-planning.md` | Sprint 1 – Estrutura Inicial | Mar/2026 |
-| `sprint-2-planning.md` | Sprint 2 – Modelagem do Sistema | Abr/2026 |
-| `sprint-3-planning.md` | Sprint 3 – Desenvolvimento das Funcionalidades | Abr/2026 |
-| `sprint-4-planning.md` | Sprint 4 – Análise e Resultados | Mai/2026 |
+| `is_sprint-1-planning.md` | Sprint 1 – Estrutura Inicial | Mar/2026 |
+| `is_sprint-2-planning.md` | Sprint 2 – Modelagem do Sistema | Abr/2026 |
+| `is_sprint-3-planning.md` | Sprint 3 – Desenvolvimento das Funcionalidades | Abr/2026 |
+| `is_sprint-4-planning.md` | Sprint 4 – Análise e Resultados | Mai/2026 |
 
 ---
 
