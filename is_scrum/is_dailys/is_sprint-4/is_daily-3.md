@@ -1,4 +1,4 @@
-# Registro da Daily – Projeto Avalia+
+# IS_Registro da Daily – Projeto Avalia+
 
 **Data:** 13/05/2026  
 **Formato:** Reunião via Discord  
