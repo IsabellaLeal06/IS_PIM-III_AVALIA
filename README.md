@@ -1,4 +1,4 @@
-# PIM-III_AVALIA
+
 <h1 align="center">
   <img src="./docs/assets/AVALIA__.svg" alt="Avalia+" width="300"/>
 </h1>
@@ -64,7 +64,7 @@ Sprint 4 ───────────────────────�
 | Sprint 1 | Mar/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-1-planning.md) | 🔗 Em breve |
 | Sprint 2 | Abr/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-2-planning.md) | 🔗 Em breve |
 | Sprint 3 | Abr/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-3-planning.md) | 🔗 Em breve |
-| Sprint 4 | Mai/2026 | 🔗 Em breve | 🔗 Em breve |
+| Sprint 4 | Mai/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-4-planning.md) | 🔗 Em breve |
 
 ---
 
