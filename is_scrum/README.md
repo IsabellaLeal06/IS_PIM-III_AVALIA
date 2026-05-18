@@ -8,13 +8,13 @@ Esta pasta centraliza toda a documentação relacionada à metodologia ágil **S
 
 | Pasta | Descrição |
 |-------|-----------|
-| [`/backlog`](./backlog/) | Backlog consolidado do projeto |
-| [`/product-backlog`](./product-backlog/) | Product Backlog completo e priorizado |
-| [`/sprint-backlog`](./sprint-backlog/) | Backlog de cada sprint individualmente |
-| [`/sprint-planning`](./sprint-planning/) | Documentos de planejamento de cada sprint |
-| [`/sprint-retrospective`](./sprint-retrospective/) | Retrospectivas realizadas ao final de cada sprint |
-| [`/sprint-review`](./sprint-review/) | Reviews de entrega de cada sprint |
-| [`/dailys`](./dailys/) | Registros das reuniões diárias (dailys) por sprint |
+| [`/is_backlog`](./is_backlog/) | Backlog consolidado do projeto |
+| [`/is_product-backlog`](./is_product-backlog/) | Product Backlog completo e priorizado |
+| [`/is_sprint-backlog`](./is_sprint-backlog/) | Backlog de cada sprint individualmente |
+| [`/is_sprint-planning`](./is_sprint-planning/) | Documentos de planejamento de cada sprint |
+| [`/is_sprint-retrospective`](./is_sprint-retrospective/) | Retrospectivas realizadas ao final de cada sprint |
+| [`/is_sprint-review`](./is_sprint-review/) | Reviews de entrega de cada sprint |
+| [`/is_dailys`](./is_dailys/) | Registros das reuniões diárias (dailys) por sprint |
 
 ---
 
