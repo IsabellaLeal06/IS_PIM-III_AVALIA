@@ -8,9 +8,9 @@ Esta pasta contém os registros das Sprint Reviews do projeto Avalia+.
 
 | Arquivo | Sprint | Status |
 |---------|--------|--------|
-| `sprint-1-review.md` | Sprint 1 | ✅ Realizada |
-| `sprint-2-review.md` | Sprint 2 | ✅ Realizada |
-| `sprint-3-review.md` | Sprint 3 | ✅ Realizada |
+| `is_sprint-1-review.md` | Sprint 1 | ✅ Realizada |
+| `is_sprint-2-review.md` | Sprint 2 | ✅ Realizada |
+| `is_sprint-3-review.md` | Sprint 3 | ✅ Realizada |
 
 ---
 
