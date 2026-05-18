@@ -8,7 +8,7 @@ Esta pasta contém o backlog consolidado do projeto Avalia+, reunindo as funcion
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `backlog.md` | Lista consolidada de todos os itens do backlog |
+| `is_backlog.md` | Lista consolidada de todos os itens do backlog |
 
 ---
 
@@ -20,4 +20,4 @@ O backlog do projeto está dividido em três categorias:
 - **Modelagem e diagramas** — atividades de representação estrutural do sistema
 - **Documentação do PIM** — elaboração do trabalho acadêmico
 
-Consulte o [Product Backlog completo](../product-backlog/product-backlog-avalia+.md) para ver todos os itens detalhados com prioridade e status.
+Consulte o [Product Backlog completo](../is_product-backlog/is_product-backlog-avalia+.md) para ver todos os itens detalhados com prioridade e status.
