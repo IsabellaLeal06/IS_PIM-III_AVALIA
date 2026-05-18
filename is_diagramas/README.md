@@ -8,9 +8,9 @@ Esta pasta reúne todos os diagramas e modelos visuais produzidos durante o dese
 
 | Pasta | Conteúdo |
 |-------|---------|
-| [`/banco-de-dados`](./banco-de-dados/) | MER, DER e Dicionário de Dados |
-| [`/fluxo-de-usuario`](./fluxo-de-usuario/) | Fluxos de navegação por perfil de usuário |
-| [`/uml`](./uml/) | Diagrama de Casos de Uso, Classes e Sequência |
+| [`/is_banco-de-dados`](./is_banco-de-dados/) | MER, DER e Dicionário de Dados |
+| [`/is_fluxo-de-usuario`](./is_fluxo-de-usuario/) | Fluxos de navegação por perfil de usuário |
+| [`/is_uml`](./is_uml/) | Diagrama de Casos de Uso, Classes e Sequência |
 
 ---
 
