@@ -2,7 +2,7 @@
 
 ## Sprint 3 – Desenvolvimento Inicial
 
-**Projeto:** Avalia+  
+**Projeto:** Avalia+   
 **Data:** Abril de 2026  
 **Duração:** 2 semanas  
 
