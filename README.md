@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./is_docs/is_assets/is_AVALIA__.svg" alt="Avalia+" width="300"/>
+  <img src="./is_docs/is_assets/is_AVALIA +.svg" alt="Avalia+" width="300"/>
 </h1>
 
 <p align="center">
